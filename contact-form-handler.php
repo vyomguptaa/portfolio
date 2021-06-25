@@ -4,7 +4,7 @@
      $tel=$_POST['tel'];
      $message=$_POST['message'];
      
-     $email_from="vyomgupta31@gmail.com"
+     $email_from="vyom.gupta.3128@gmail.com"
      $email_subject="New Form Submission"
      $email_body="Username: $name.\n".
                     "User Email: $visitor_email.\n".
